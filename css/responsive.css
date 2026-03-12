@@ -1,0 +1,731 @@
+@media (min-width:320px) and (max-width:575px){
+
+    .navbar-toggler{
+        background-color: rgba(221, 179, 131, 0.5);
+    }
+
+    .navbar-nav{
+        width:170px;
+        background-color: rgb(189, 163, 133);
+        border-radius: 8px;
+        padding: 8px 0px 8px 20px;
+    }
+
+    .banner-content {
+        padding-top: 110px;
+        padding-left: 12px;
+        padding-bottom: 80px;
+    }
+
+    .banner-h1 {
+        font-size: 55px;
+    }
+
+    .banner-h1-2 {
+        font-size: 46px;
+        padding-top: 8px;
+    }
+
+    .easter {
+        padding-top: 52px;
+        padding-bottom:80px;
+    }
+
+    .col-12{
+        width: 100%;
+    }
+
+    .easter-main {
+        padding-top: 48px;
+        padding-left: 0px;
+    }
+
+    .easter-img{
+        width: 100%;
+    }
+
+    .text-p2 {
+        font-size: 43px;
+    }
+
+    .easter-p {
+        text-align: justify;
+        font-size: 12px;
+        padding-bottom: 23px;
+    }
+
+    .bromo-img{
+        width:100%;
+        padding-bottom: 52px;
+    }
+
+    .bromo-main {
+        text-align: center;
+        position: static;
+        padding-top: 20px;
+        padding-bottom: 32px;
+    }
+
+    .bromo-pic{
+        width: 100%;
+    }
+
+    .text-p1 {
+        font-size: 13px;
+        padding-bottom: 3px;
+    }
+
+    .text-p2 {
+        font-size: 16px;
+        padding-bottom: 13px;
+    }
+
+    .bromo-p {
+        width:100%;
+        font-size: 12px;
+    }
+
+    .main {
+        padding-top:8px;
+    }
+
+    .culture {
+        padding-bottom: 120px;
+    }
+
+    .culture-p {
+        padding-bottom: 24px;
+        font-size: 13px;
+    }
+
+    .culture-img{
+        width: 100%;
+        padding-top: 50px;
+    }
+
+    .explore-h1 {
+        font-size: 40px;
+        padding-bottom: 58px;
+    }
+
+    .explore-h2 {
+        font-size: 30px;
+    }
+
+    .explore-p1 {
+        margin-bottom: 96px;
+    }
+
+    .explore-p2 {
+        font-size: 16px;
+       
+    }
+
+    .explore-flex {
+        padding-left: 0;
+    }
+
+    .explore-btn {
+        padding: 12px 20px;
+    }
+
+    .explore-li {
+        display:inline;
+        padding-top: 30px;
+    }
+
+} 
+
+@media (min-width:576px) and (max-width:767px){
+
+    .navbar-toggler{
+        background-color: rgba(221, 179, 131, 0.5);
+    }
+
+   .navbar-toggler-icon {
+    width: 1em;
+    height: 1.5em;
+}
+
+    .navbar-nav{
+        width:185px;
+        background-color: rgb(189, 163, 133);
+        border-radius: 8px;
+        padding: 8px 0px 8px 20px;
+    }
+
+    .banner-content {
+        padding-top: 110px;
+        padding-left: 12px;
+        padding-bottom: 94px;
+    }
+
+    .banner-p {
+        padding-bottom: 13.8px;
+    }
+
+    .banner-h1 {
+        font-size: 55px;
+    }
+
+    .banner-h1-2 {
+        font-size: 46px;
+        padding-top: 8px;
+    }
+
+    .easter {
+        padding-top: 52px;
+        padding-bottom:80px;
+    }
+
+    .col-12{
+        width: 100%;
+    }
+
+    .easter-main {
+        padding-top: 48px;
+        padding-left: 0px;
+    }
+
+    .easter-img{
+        width: 100%;
+    }
+
+    .text-p1{
+        font-size:16px;
+        padding-bottom: 3px;
+    }
+
+    .text-p2 {
+        font-size: 20px;
+        padding-bottom: 13px;
+    }
+
+    .easter-p {
+        text-align: justify;
+        font-size: 14px;
+        padding-bottom: 23px;
+    }
+
+    .bromo-img{
+        width:100%;
+        padding-bottom: 52px;
+    }
+
+    .bromo-main {
+        text-align: center;
+        position: static;
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+
+    .bromo-pic{
+        width: 100%;
+    }
+
+    .text-p1 {
+        font-size: 16px;
+        padding-bottom: 3px;
+    }
+
+    .text-p2 {
+        font-size: 20px;
+        padding-bottom: 13px;
+    }
+
+    .bromo-p {
+        width:100%;
+        font-size: 14px;
+    }
+
+    .main {
+        padding-top:8px;
+    }
+
+    .culture {
+        padding-bottom: 120px;
+    }
+
+    .culture-p {
+        padding-bottom: 24px;
+    }
+
+    .culture-img{
+        width: 100%;
+        padding-top: 60px;
+    }
+
+    .explore-h1 {
+        font-size: 40px;
+        padding-bottom: 58px;
+    }
+
+    .explore-h2 {
+        font-size: 38px;
+    }
+
+    .explore-flex {
+        padding-left: 0;
+        justify-content: flex-end;
+        padding-bottom: 35px;
+    }
+
+    .explore-p1 {
+        margin-bottom: 66px;
+    }
+
+    .explore-p2 {
+        font-size:22px;
+    }
+
+    .explore-btn {
+        padding: 16px 26px;
+    }
+
+    .explore-li {
+        display:flex;
+        padding-top: 30px;
+    }
+
+} 
+
+@media (min-width:768px) and (max-width:991px){
+
+    .navbar-toggler{
+        background-color: rgba(221, 179, 131, 0.5);
+    }
+
+   .navbar-toggler-icon {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+    .navbar-nav{
+        width:195px;
+        background-color: rgb(189, 163, 133);
+        border-radius: 8px;
+        padding: 10px 0px 10px 20px;
+    }
+
+    .banner-content {
+        padding-top: 135px;
+        padding-left: 20px;
+        padding-bottom: 151px;
+    }
+
+    .banner-p {
+        padding-bottom: 13.8px;
+    }
+
+    .banner-h1 {
+        font-size:60px;
+    }
+
+    .banner-h1-2 {
+        font-size: 50px;
+        padding-top: 8px;
+    }
+
+    .easter {
+        padding-top: 52px;
+        padding-bottom:80px;
+    }
+
+    .col-12{
+        width: 100%;
+    }
+
+    .easter-main {
+        padding-top: 48px;
+        padding-left: 0px;
+    }
+
+    .easter-img{
+        width: 100%;
+    }
+
+    .text-p1{
+        font-size:20px;
+        padding-bottom: 3px;
+    }
+
+    .text-p2 {
+        font-size: 26px;
+        padding-bottom: 13px;
+    }
+
+    .easter-p {
+        text-align: justify;
+        font-size: 16px;
+        padding-bottom: 23px;
+    }
+
+    .bromo-img{
+        width:100%;
+        padding-bottom:80px;
+    }
+
+    .bromo-main {
+        text-align: center;
+        position: absolute;
+        top:190px;
+        left: 0px;
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+
+    .bromo-pic{
+        width: 100%;
+        position: relative;
+    }
+
+    .bromo-p {
+        width:100%;
+        font-size: 13px;
+    }
+
+    .main {
+        padding-top:8px;
+    }
+
+    .culture {
+        padding-bottom: 120px;
+    }
+
+    .culture-p {
+        padding-bottom: 24px;
+    }
+
+    .culture-img{
+        width: 100%;
+        padding-top: 60px;
+    }
+
+    .explore-h1 {
+        font-size: 40px;
+        padding-bottom: 58px;
+    }
+
+    .explore-h2 {
+        font-size: 38px;
+    }
+
+    .explore-flex {
+        padding-left: 0;
+        justify-content: flex-end;
+        padding-bottom: 35px;
+    }
+
+    .explore-p1 {
+        margin-bottom: 66px;
+    }
+
+    .explore-p2 {
+        font-size:22px;
+    }
+
+    .explore-btn {
+        padding: 16px 26px;
+    }
+
+    .explore-li {
+        display:flex;
+        padding-top: 30px;
+    }
+
+    .explore-li-one {
+        font-size: 22px;
+    }
+
+    li {
+        font-size: 20px;
+    }
+
+} 
+
+@media (min-width:992px) and (max-width:1199px){
+
+    .nav-list {
+        margin-right:30px;
+    }
+
+    .nav-list-a {
+        margin-right: 0px;
+    }
+
+    .banner-content {
+        padding-top: 215px;
+        padding-left: 40px;
+        padding-bottom: 122px;
+    }
+
+    .banner-p {
+        padding-bottom: 13.8px;
+    }
+
+    .banner-h1 {
+        font-size:70px;
+    }
+
+    .banner-h1-2 {
+        font-size: 60px;
+        padding-top: 3px;
+    }
+
+    .easter {
+        padding-top: 90px;
+        padding-bottom: 140px;
+    }
+
+    .easter-main {
+        padding-top: 48px;
+        padding-left: 0px;
+    }
+
+    .easter-img{
+        width: 100%;
+    }
+
+    .text-p1{
+        font-size:20px;
+        padding-bottom: 3px;
+    }
+
+    .text-p2 {
+        font-size: 26px;
+        padding-bottom: 13px;
+    }
+
+    .easter-p {
+        text-align: justify;
+        font-size: 16px;
+        padding-bottom: 23px;
+    }
+
+    .bromo-img{
+        width:100%;
+        padding-bottom:100px;
+    }
+
+    .bromo-main {
+        text-align: center;
+        position: absolute;
+        top: 374px;
+        left: 0px;
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+
+    .bromo-pic{
+        width: 100%;
+        position: relative;
+    }
+
+    .bromo-p {
+        width:100%;
+        font-size: 14px;
+    }
+
+    .main {
+        padding-top: 140px;
+    }
+
+    .culture {
+        padding-bottom: 120px;
+    }
+
+    .culture-p {
+        padding-bottom: 24px;
+    }
+
+    .culture-img{
+        width: 100%;
+        padding-top: 60px;
+    }
+
+    .explore-h1 {
+        font-size: 40px;
+        padding-bottom: 58px;
+    }
+
+    .explore-h2 {
+        font-size: 30px;
+    }
+
+    .explore-flex {
+        padding-left: 0;
+        justify-content: flex-end;
+        padding-bottom: 35px;
+    }
+
+    .explore-p1 {
+        margin-bottom: 66px;
+    }
+
+    .explore-p2 {
+        font-size:22px;
+    }
+
+    .explore-btn {
+        padding: 16px 26px;
+    }
+
+    .explore-li {
+        display:flex;
+        padding-top:20px;
+    }
+
+    .explore-li-one {
+        font-size: 20px;
+    }
+
+    li {
+        font-size:18px;
+    }
+
+} 
+
+@media (min-width:1200px) and (max-width:1399px){
+
+    .nav-list {
+        font-size: 18px;
+        margin-right: 40px;
+    }
+
+    .nav-list-a {
+        margin-right: 0px;
+    }
+
+    .banner-content {
+        padding-top: 215px;
+        padding-left: 40px;
+        padding-bottom: 145px;
+    }
+
+    .banner-p {
+        padding-bottom: 13.8px;
+    }
+
+    .banner-h1 {
+        font-size:80px;
+    }
+
+    .banner-h1-2 {
+        font-size: 70px;
+        padding-top: 3px;
+    }
+
+    .easter {
+        padding-top: 120px;
+        padding-bottom: 170px;
+    }
+    .easter-main {
+        padding-top: 48px;
+        padding-left: 0px;
+    }
+
+    .easter-img{
+        width: 100%;
+    }
+
+    .text-p1{
+        font-size:20px;
+        padding-bottom: 3px;
+    }
+
+    .text-p2 {
+        font-size: 26px;
+        padding-bottom: 13px;
+    }
+
+    .easter-p {
+        text-align: justify;
+        font-size: 16px;
+        padding-bottom: 23px;
+    }
+
+    .bromo-img{
+        width:100%;
+        padding-bottom:100px;
+    }
+
+    .bromo-main {
+        text-align: center;
+        position: absolute;
+        top:480px;
+        left: 0px;
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+
+    .bromo-pic{
+        width: 100%;
+        position: relative;
+    }
+
+    .bromo-p {
+        width:100%;
+        font-size: 18px;
+    }
+
+    .main {
+        padding-top: 140px;
+    }
+
+    .culture {
+        padding-bottom: 120px;
+    }
+
+    .culture-p {
+        padding-bottom: 24px;
+    }
+
+    .culture-img{
+        width: 100%;
+        padding-top: 60px;
+    }
+
+    .explore-h1 {
+        font-size: 40px;
+        padding-bottom: 58px;
+    }
+
+    .explore-h2 {
+        font-size: 30px;
+    }
+
+    .explore-flex {
+        padding-left: 0;
+        justify-content: flex-end;
+        padding-bottom: 35px;
+    }
+
+    .explore-p1 {
+        margin-bottom: 66px;
+    }
+
+    .explore-p2 {
+        font-size:22px;
+    }
+
+    .explore-btn {
+        padding: 16px 26px;
+    }
+
+    .explore-li {
+        display:flex;
+        padding-top:20px;
+    }
+
+    .explore-li-one {
+        font-size: 22px;
+    }
+
+    li {
+        font-size:20px;
+    }
+
+} 
+
+
+    
